@@ -10,7 +10,7 @@ This interactive Java applet visually demonstrates the concept of both smooth an
 
 Below are some examples of different applications utilizing the same principles demonstrated in this program.
 
-The following images were produced by an OpenGL based application featuring particles whose colors vary over time as well as different functions for transforming the flow field.
+The following images were produced by an OpenGL based application featuring particles whose colors vary over time as well as different functions for transforming the flow field and influencing the particle behavior.
 
 ![2D Flow](/Media/2D_Flow_1.png "2D Flow")
 ![2D Flow](/Media/2D_Flow_2.png "2D Flow")
